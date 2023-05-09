@@ -2,4 +2,5 @@
 
 int main(){
     printf("eiei");
+    printf("kuy");
 }
